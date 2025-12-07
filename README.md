@@ -38,7 +38,7 @@
 
 - Get your [Necessary Variables](https://github.com/TEAMPURVI/ALPHA_MUSIC/blob/main/sample.env)
 - Upgrade and Update by : `sudo apt-get update && sudo apt-get upgrade -y`
-- 
+
 - Install Ffmpeg & Python by :
 `sudo apt-get install python3-pip ffmpeg -y`
 
