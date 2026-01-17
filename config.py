@@ -24,8 +24,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/txsn4x/snaxymusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/aniweb_bots")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/aniweb_nexus")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dramaX_view")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/alyaxsupport")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
